@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data2/luozengcheng/cpp/lib/math/libMath.cpp
+libMath.h
+/data2/luozengcheng/cpp/lib/math/libMath.h
+
+/data2/luozengcheng/cpp/src/app1/../../lib/include/libMath.h
+cmath
+-
+iostream
+-
+

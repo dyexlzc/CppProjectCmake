@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/app1_bin.dir/main.cpp.o  -o app1_bin -rdynamic math_static/libmath_static.a text_static/libtext_static.a 
